@@ -1,0 +1,8 @@
+package pack5;
+public class ProtectedExample {
+    protected int x = 100;
+    protected void display() {
+        System.out.println("Value of x = " + x);
+    }
+}
+
