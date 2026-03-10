@@ -1,0 +1,2 @@
+# protectedmemeber.java
+ProtectedExample.java
